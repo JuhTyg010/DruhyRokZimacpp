@@ -1,0 +1,10 @@
+/home/juhtyg/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/juhtyg/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/juhtyg/Desktop/UK_Skola/Druhy-rok_zima/programming_cpp/MathExercise -B /home/juhtyg/Desktop/UK_Skola/Druhy-rok_zima/programming_cpp/MathExercise/cmake-build-debug
+-- The CXX compiler identification is GNU 13.2.1
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/juhtyg/Desktop/UK_Skola/Druhy-rok_zima/programming_cpp/MathExercise/cmake-build-debug

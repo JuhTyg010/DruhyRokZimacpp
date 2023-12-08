@@ -1,0 +1,4 @@
+/home/juhtyg/Desktop/UK_Skola/Druhy-rok_zima/programming_cpp/MathExercise/cmake-build-debug/CMakeFiles/expressions1.dir
+/home/juhtyg/Desktop/UK_Skola/Druhy-rok_zima/programming_cpp/MathExercise/cmake-build-debug/CMakeFiles/expressions2.dir
+/home/juhtyg/Desktop/UK_Skola/Druhy-rok_zima/programming_cpp/MathExercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/juhtyg/Desktop/UK_Skola/Druhy-rok_zima/programming_cpp/MathExercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir

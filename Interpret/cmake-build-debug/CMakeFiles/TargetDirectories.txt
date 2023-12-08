@@ -1,0 +1,3 @@
+/home/juhtyg/Desktop/UK_Skola/Druhy-rok_zima/programming_cpp/Interpret/cmake-build-debug/CMakeFiles/Interpret.dir
+/home/juhtyg/Desktop/UK_Skola/Druhy-rok_zima/programming_cpp/Interpret/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/juhtyg/Desktop/UK_Skola/Druhy-rok_zima/programming_cpp/Interpret/cmake-build-debug/CMakeFiles/rebuild_cache.dir
